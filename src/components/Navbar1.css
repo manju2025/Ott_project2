@@ -5,13 +5,13 @@
 .watchflix,
 .watchflix1 {
   position: absolute;
-  top: 2500px;
+  top: 500px;
   left: 49px;
   font-family: Oswald;
   color: white;
 }
 .watchflix1 {
-  top: 2500px;
+  top: 2200px;
   left: 48px;
   font-size:32px;
 }
