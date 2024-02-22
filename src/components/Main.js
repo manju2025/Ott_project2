@@ -24,7 +24,7 @@ const Main = () => {
 <div className='w-full h-[600px] text-white'>
   <div className='w-full h-full relative'>
     <img 
-      src="/mask-group@2x.png"
+      src="/mask-group@2x.png" alt=''
     />
       <div className='absolute w-full top-[20%] p-4 md:p-8'>
       <div className="blade-runner-2049-parent">
