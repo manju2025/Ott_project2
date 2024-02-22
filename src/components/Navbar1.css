@@ -1,0 +1,219 @@
+
+.flix {
+  color: #da3714;
+}
+.watchflix,
+.watchflix1 {
+  position: absolute;
+  top: 2500px;
+  left: 49px;
+  font-family: Oswald;
+  color: white;
+}
+.watchflix1 {
+  top: 2500px;
+  left: 48px;
+  font-size:32px;
+}
+group-child6 {
+    position: absolute;
+    top: 2500px;
+    left:  48px;
+    background-color:white;
+    width: 1440px;
+    height: 227.3px;
+  }
+  .connect-us1,
+.information1,
+.manage1 {
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 20px;
+    color:  #da3714;
+    margin-left:300px ;
+    padding: 120px;
+}
+  .information1,
+.manage1 {
+  left: 400.5px;
+}
+.information1 {
+  left: 800.3px;
+}
+.help-center1
+{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 15px;
+    color: white;
+    margin-left:90px ;
+    padding: 350px;
+  }
+ 
+   .about1{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 15px;
+    color: white;
+    margin-left:250px ;
+    padding: 200px;
+  }
+   .contact-us1
+  {
+  position: absolute;
+  width: 1440px;
+  height: 227.3px;
+  font-size: 15px;
+  color: white;
+  margin-left:200px ;
+  padding: 250px;
+}
+.career1
+{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 15px;
+    color: white;
+    margin-left:160px ;
+    padding: 300px;    
+} 
+.account1
+{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 15px;
+    color: white;
+    margin-left:630px ;
+    padding: 200px;
+}
+.manage-account1
+{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 15px;
+    color: white;
+    margin-left:500px ;
+    padding: 300px;
+}
+.buy-gift-card1
+{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 15px;
+    color: white;
+    margin-left:560px ;
+    padding: 250px;
+}
+.redeem-gift-card1
+{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 15px;
+    color: white;
+    margin-left:450px ;
+    padding: 350px;
+}
+.account2
+{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 15px;
+    color: white;
+    margin-left:1050px ;
+    padding: 200px;
+}
+.Cookies1
+{
+    position: absolute;
+  width: 1440px;
+  height: 227.3px;
+  font-size: 15px;
+  color: white;
+  margin-left:1000px ;
+  padding: 250px; 
+}
+.FAQ1
+{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 15px;
+    color: white;
+    margin-left:960px ;
+    padding: 300px;    
+}
+.manage-account2
+{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 15px;
+    color: white;
+    margin-left:850px ;
+    padding: 350px;
+}
+/* .Terms1
+{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 15px;
+    color: white;
+    margin-left:200px ;
+    padding: 350px;  
+} */
+   /* .career1,
+.contact-us1,
+.help-center1 {
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 20px;
+    color:  #da3714;
+    margin-left:300px ;
+    padding: 120px;
+} */
+/* .career1,
+.contact-us1 {
+  top: 1921px;
+}
+.contact-us1 {
+  top: 1873px;
+  left: 325.5px;
+}  */
+/* .connect-us1 {
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 20px;
+    color:  #da3714;
+    margin-left:600px ;
+    padding: 120px;
+}
+.manage1{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 20px;
+    color:  #da3714;
+    margin-left:900px ;
+    padding: 120px;
+}
+.information1{
+    position: absolute;
+    width: 1440px;
+    height: 227.3px;
+    font-size: 20px;
+    color:  #da3714;
+    margin-left:1200px ;
+    padding: 120px;
+} */

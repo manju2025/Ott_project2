@@ -1,0 +1,137 @@
+/* Your CSS file */
+
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    z-index: 100;
+    width: 100%;
+    position: absolute;
+  }
+  
+  .brand-title {
+    color: #ff0000; /* Red color */
+    font-size: 2rem;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .brand-title1 {
+    color: white;/* Red color */
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family:Overpass;
+
+  }
+  
+  
+  .auth-buttons {
+    display: flex;
+  }
+  
+  .sign-in-button {
+    color: #ffffff; /* White color */
+    padding-right: 1rem;
+  }
+  
+  .sign-up-button {
+    background-color: #ff0000; /* Red color */
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    color: #ffffff; /* White color */
+  }
+.watchflix,
+.watchflix1 {
+  position: absolute;
+  top: 21px;
+  left: 49px;
+  font-family:  Oswald;
+}
+.watchflix1 {
+  top: 1851px;
+  left: 48px;
+  font-size:80px;
+}
+.documentaries,
+.tv-series {
+  position: absolute;
+  top: 1.5px;
+  left: 116.3px;
+}
+.documentaries {
+  top: 0;
+  left: 245.3px;
+}
+.categories,
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 425.3px;
+}
+.group-child8 {
+  top: 24.8px;
+  left: 0;
+  background-color: var(--color-tomato);
+  width: 24px;
+  height: 3.8px;
+}
+.movies-parent {
+  position: absolute;
+  top: 0.8px;
+  left: 0;
+  width: 59px;
+  height: 28.5px;
+}
+.homepage-inner,
+.tv-series-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 514.3px;
+  height: 29.3px;
+}
+.homepage-inner {
+  top: 25.5px;
+  left: 463px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+}
+.homepage {
+  background-color:black;
+}
+.rectangle-group {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1988.3px;
+  font-size: var(--font-size-xs);
+}
+.group-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 78px;
+}
+.bxbx-search-icon1
+{
+  position: absolute;
+  left:1300px;
+  width: 26.3px;
+  height: 26.3px;
+  overflow: hidden;
+}
+.bxbx-search-icon2
+{
+  position: absolute;
+  left:1350px;
+  width: 26.3px;
+  height: 26.3px;
+  overflow: hidden;
+}
+.homepage
+{
+  background-color: black;
+}
