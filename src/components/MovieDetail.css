@@ -1,0 +1,171 @@
+/* MovieDetails.css */
+
+.movie-details {
+  position:relative;
+  font-size: 40px;
+  font-family: oswald;
+  width: 2350px;
+  height: 800px;
+  padding: 120px;
+    object-fit:cover;
+}
+
+.movie-details h2 {
+  color: white;
+}
+
+.movie-details p {
+  top: 997px;
+  left: 33px;
+  font-size: 30px;
+  letter-spacing: 0.05em;
+  font-family:overpass;
+  display: inline-block;
+  color: white;
+}
+.movie-details a:hover {
+  background-color: black;
+}
+.movie-details  {
+  top: 0;
+  left:0px;
+  width: 1350.4px;
+  height: 916.1px;
+  padding: 60px;
+}
+
+.h-30-min {
+  top: 826px;
+  left: 142.6px;
+  color: white;
+  padding: 350px;
+}
+.ri-add-fill-icon1 {
+  position: absolute;
+  top: 640.5px;
+  left: 900px;
+  width: 180px;
+  height: 150.1px;
+  overflow: hidden;
+  padding: 100px;
+}
+.types {
+  top: 900px;
+  left: 62.6px;
+  box-sizing: border-box;
+  width: 180.5px;
+  height: 70.6px;
+  padding: 7.203596591949463px 46.82338333129883px;
+  border: 1.8px solid tomato;
+}
+.action {
+  position: relative;
+  font-weight: 500;
+  color: tomato;
+}
+.types,
+.types1,
+.types2,
+.types3 {
+  position: absolute;
+  border-radius: 22.51px;
+  background-color: rgba(72, 13, 13, 0);
+  border: 1.1px solid #da3714;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.types1,
+.types2,
+.types3 {
+  top: 900px;
+  left: 300.2px;
+  padding: 7.503746509552002px 30.014986038208008px;
+}
+.types2,
+.types3 {
+  top: 900px;
+  left: 950.2px;
+}
+.types3 {
+  left: 670.2px;
+  padding: 7.203596591949463px 46.82338333129883px;
+}
+
+.more-like-this {
+  position: absolute;
+  top: 1252px;
+  left: 121px;
+  font-weight: 600;
+  font-family: poppins;
+  color: aliceblue;
+}
+.fan-img2-icon3,
+.fan-img3-icon3,
+.fan-img4-icon3,
+.fan-img5-1-icon3 {
+  position: absolute;
+  top: 0.3px;
+  left: 338px;
+  width: 153.2px;
+  height: 216.8px;
+  object-fit: cover;
+}
+.fan-img3-icon3,
+.fan-img4-icon3,
+.fan-img5-1-icon3 {
+  left: 168.7px;
+  width: 146.9px;
+}
+.fan-img4-icon3,
+.fan-img5-1-icon3 {
+  top: 0;
+  left: 0;
+  width: 146.3px;
+}
+.fan-img5-1-icon3 {
+  top: 0.3px;
+  left: 1026.3px;
+}
+.fan-img5-2-icon3,
+.fan-img6-icon3,
+.fan-img7-icon3,
+.fan-img8-icon3 {
+  position: absolute;
+  top: 0;
+  left: 1195px;
+  width: 146.3px;
+  height: 216.8px;
+  object-fit: cover;
+}
+.fan-img6-icon3,
+.fan-img7-icon3,
+.fan-img8-icon3 {
+  top: 0.3px;
+  left: 688.9px;
+}
+.fan-img7-icon3,
+.fan-img8-icon3 {
+  left: 857.6px;
+}
+.fan-img8-icon3 {
+  left: 513.6px;
+  width: 152.8px;
+}
+.movie-sec-41,
+.movies3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1341.2px;
+  height: 217.1px;
+}
+.movie-sec-41 {
+  top: 1300.2px;
+  left: 121.1px;
+}
+
+
+
+

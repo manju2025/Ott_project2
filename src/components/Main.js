@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import requests from '../Requests';
 import { useState } from 'react';
 import axios from 'axios';
-import "./main.css";
+ import "./main.css";
 
 const Main = () => {
     const [movies, setMovies] = useState([]);
@@ -17,6 +17,7 @@ const Main = () => {
     return(
     <div>
        <div className="homepage">
+        
     <br></br>
     <br></br>
     <br></br>
@@ -39,7 +40,7 @@ const Main = () => {
         <div className="rectangle-parent">
           <div className="rectangle-div" />
           <img className="polygon-icon" alt="" src="/polygon-1.svg" />
-          <b className="watch-now">Watch Now</b>
+          <a className="watch-now" href ="./10-03-25.mp4" target="_blank">Watch Now</a>
         <div className="group-parent">
         <div className="ri-add-fill-parent">
           <img className="ri-add-fill-icon" alt="" src="/riaddfill.svg" />

@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
+import { Link } from 'react-router-dom';
+import MovieDetails from './MovieDetails'; 
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
-import 'slick-carousel/slick/slick-theme.css';
+import 'slick-carousel/slick/slick-theme.css'; 
 import { FaChevronLeft, FaChevronRight } from 'react-icons/fa';
 import "./Row.css";
 
@@ -26,7 +28,6 @@ const Row = ({ title, fetchURL }) => {
       <FaChevronLeft />
     </div>
   );
-
   const settings = {
     dots: true,
     infinite: true,
@@ -64,17 +65,21 @@ const Row = ({ title, fetchURL }) => {
       <Slider {...settings}>
         {movies.map((item, id) => (
           <div className='custom-width inline-block cursor-pointer relative padding-2' key={id}>
+                <Link to={`/movie-details/${item.id}`}state={{ movie: item }}>
             <img
               className='full-width auto-height block'
               src={`https://image.tmdb.org/t/p/w154${item.poster_path}`}
+
               alt="Movie Poster"
             />
             <div className='absolute-overlay hover:bg-black/80 text-white'>
               <p>{item?.title}</p>
             </div>
+            </Link>
           </div>
         ))}
       </Slider>
+      <MovieDetails />
     </div>
   );
 };

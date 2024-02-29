@@ -1,7 +1,9 @@
 import React from 'react';
- import "./Navbar1.css";
+import "./Navbar1.css";
+
 const Navbar1 = () => 
 {
+ 
   return(
     <div className="navbar1">
        <b className="watchflix">
